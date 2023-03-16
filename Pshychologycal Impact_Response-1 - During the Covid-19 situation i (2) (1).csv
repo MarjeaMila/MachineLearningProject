@@ -1,0 +1,176 @@
+Timestamp,gender,level,department,preedusy,infected,economy_condition,understand,communication,religious,obstacle,phy_result,on_result,on_edu_observation,psych_condition,phy_difficulty
+8/4/2021 12:26:08,Male,3,CSE,Online,Yes,2,No one,Irregular,Irregular,"Family, Study",Medium,Medium,negative,medical counselling,psychologycal 
+8/4/2021 12:26:41,Female,2,CSE,Physical,Yes,3,Father/Mother,Irregular,Irregular,"Study, Physical Activity",High,High,negative,medical counselling,backpain
+8/4/2021 12:26:48,Female,3,CSE,Online,Yes,3,Father/Mother,Regular,Irregular,Physical Activity,Medium,High,creating physical problems,enrichment activities,psychologycal 
+8/4/2021 12:28:19,Male,4,CSE,Online,Yes,3,Sibling,Irregular,Regular,"Social Activity, Work, Study, Physical Activity",High,Medium,average,medical counselling,psychologycal 
+8/4/2021 12:27:42,Male,3,CSE,Physical,No,3,Friends,Regular,Irregular,"Social Activity, Study, Physical Activity",Medium,Low,education system is collapsing,travelling,headache
+8/4/2021 12:28:47,Male,3,CSE,Online,Yes,3,Father/Mother,Regular,Irregular,Family,Medium,Medium,negative,enrichment activities,psychologycal 
+8/4/2021 12:29:19,Male,3,CSE,Physical,No,2,Friends,Irregular,Irregular,Study,Medium,Medium,average,travelling,psychologycal 
+8/4/2021 12:29:32,Male,3,CSE,Physical,Yes,4,Father/Mother,Irregular,Irregular,Physical Activity,Medium,Medium,education system is collapsing,medical counselling,psychologycal 
+8/4/2021 12:29:37,Male,3,CSE,Physical,No,2,Father/Mother,Regular,Irregular,Study,Medium,Medium,creating physical problems,medical counselling,psychologycal 
+8/4/2021 12:29:43,Male,2,CSE,Physical,No,3,Sibling,Regular,Regular,Physical Activity,High,High,negative,get back to acdemia,headache
+8/4/2021 12:29:46,Male,3,CSE,Online,No,2,Father/Mother,Irregular,Regular,Study,High,Low,positive,enrichment activities,psychologycal 
+8/4/2021 12:31:05,Female,4,CSE,Physical,No,4,No one,Irregular,Regular,Family,High,Medium,need improvement,enrichment activities,psychologycal 
+8/4/2021 12:31:51,Male,2,CSE,Physical,No,3,Father/Mother,Regular,Irregular,Study,Medium,Medium,lack of teacher and student interaction,medical counselling,psychologycal 
+8/4/2021 12:32:16,Female,2,CSE,Online,Yes,3,Father/Mother,Regular,Regular,"Family, Social Activity, Study",Medium,Medium,negative,get back to acdemia,backpain
+8/4/2021 12:34:06,Male,3,CSE,Online,No,1,Father/Mother,Regular,Irregular,"Family, Social Activity, Study, Physical Activity",Medium,Medium,positive,enrichment activities,headache
+8/4/2021 12:34:44,Male,3,CSE,Online,No,3,Father/Mother,Regular,Regular,"Social Activity, Work",Medium,Medium,need improvement,enrichment activities,nothing
+8/4/2021 12:35:02,Male,4,CSE,Physical,Yes,2,Father/Mother,Regular,Regular,Study,Medium,Low,education system is collapsing,enrichment activities,headache
+8/4/2021 12:35:23,Male,2,CSE,Online,No,2,Father/Mother,Regular,Regular,"Work, Study, Physical Activity",High,Medium,lack of teacher and student interaction,travelling,psychologycal 
+8/4/2021 12:37:02,Male,4,CSE,Physical,No,3,Father/Mother,Irregular,Regular,Physical Activity,Medium,Medium,negative,enrichment activities,psychologycal 
+8/4/2021 12:37:11,Male,3,CSE,Physical,Yes,2,Father/Mother,Regular,Regular,Family,Medium,Medium,education system is collapsing,medical counselling,psychologycal 
+8/4/2021 12:39:28,Male,3,CSE,Physical,Yes,1,No one,Irregular,Regular,Physical Activity,Medium,Medium,negative,enrichment activities,headache
+8/4/2021 12:39:34,Male,4,CSE,Physical,No,3,Friends,Irregular,Regular,"Study, Physical Activity",High,High,education system is collapsing,get back to acdemia,eye problem
+8/4/2021 12:39:34,Male,4,CSE,Physical,No,3,Friends,Irregular,Regular,"Study, Physical Activity",High,High,education system is collapsing,get back to acdemia,headache
+8/4/2021 12:40:18,Male,3,CSE,Online,No,3,Father/Mother,Irregular,Irregular,"Family, Social Activity, Work, Study, Physical Activity",Medium,Medium,positive,medical counselling,nothing
+8/4/2021 12:40:53,Male,3,CSE,Physical,No,2,Father/Mother,Irregular,Regular,Family,Medium,Medium,negative,travelling,eye problem
+8/4/2021 12:40:53,Male,3,CSE,Physical,No,2,Father/Mother,Irregular,Regular,Family,Medium,Medium,negative,travelling,headache
+8/4/2021 12:40:53,Male,3,CSE,Physical,No,2,Father/Mother,Irregular,Regular,Family,Medium,Medium,negative,travelling,backpain
+8/4/2021 12:40:53,Male,3,CSE,Physical,No,2,Father/Mother,Irregular,Regular,Family,Medium,Medium,negative,travelling,weight gain
+8/4/2021 12:46:04,Male,2,CSE,Online,No,4,Father/Mother,Irregular,Irregular,Physical Activity,Medium,Low,education system is collapsing,enrichment activities,weight gain
+8/4/2021 12:52:53,Male,3,CSE,Online,No,4,Father/Mother,Irregular,Regular,"Work, Study",Medium,Medium,positive,enrichment activities,eye problem
+8/4/2021 12:53:37,Male,3,CSE,Physical,No,3,Sibling,More Often,Irregular,"Work, Physical Activity",Low,Medium,education system is collapsing,get back to acdemia,eye problem
+8/4/2021 12:58:24,Female,2,CSE,Online,No,3,Father/Mother,Irregular,Regular,Family,Medium,Medium,negative,medical counselling,eye problem
+8/4/2021 12:59:35,Male,4,CSE,Physical,No,3,Father/Mother,Regular,Regular,"Social Activity, Physical Activity",High,Medium,positive,get back to acdemia,psychologycal 
+8/4/2021 12:59:35,Male,4,CSE,Physical,No,3,Father/Mother,Regular,Regular,"Social Activity, Physical Activity",High,Medium,positive,get back to acdemia,eye problem
+8/4/2021 12:59:58,Male,2,CSE,Online,No,3,Father/Mother,Irregular,Irregular,"Family, Work",Medium,High,negative,get back to acdemia,nothing
+8/4/2021 13:01:02,Male,4,CSE,Physical,No,2,Father/Mother,Irregular,Irregular,"Study, Physical Activity",High,Medium,education system is collapsing,enrichment activities,ear problem
+8/4/2021 13:24:17,Female,3,CSE,Physical,No,2,Father/Mother,Irregular,Irregular,"Family, Study, Physical Activity",High,Medium,education system is collapsing,get back to acdemia,headache
+8/4/2021 13:24:17,Female,3,CSE,Physical,No,2,Father/Mother,Irregular,Irregular,"Family, Study, Physical Activity",High,Medium,education system is collapsing,get back to acdemia,backpain
+8/4/2021 13:24:17,Female,3,CSE,Physical,No,2,Father/Mother,Irregular,Irregular,"Family, Study, Physical Activity",High,Medium,education system is collapsing,get back to acdemia,ear problem
+8/4/2021 13:43:20,Male,2,CSE,Online,Yes,3,Sibling,Irregular,Irregular,Work,Medium,Medium,education system is collapsing,enrichment activities,psychologycal 
+8/4/2021 14:01:20,Male,2,CSE,Online,No,1,Father/Mother,Regular,Irregular,Family,Medium,Medium,negative,medical counselling,nothing
+8/4/2021 14:12:49,Male,2,LLB,Online,Yes,2,Father/Mother,Irregular,Regular,"Family, Work, Study",Medium,Medium,lack of teacher and student interaction,enrichment activities,psychologycal 
+8/4/2021 14:18:20,Male,2,CSE,Physical,No,2,Sibling,Irregular,Irregular,"Family, Social Activity, Work, Study, Physical Activity",Medium,Medium,lack of teacher and student interaction,medical counselling,psychologycal 
+8/4/2021 14:25:25,Female,2,ARCH,Physical,Yes,3,Father/Mother,Irregular,Regular,Social Activity,High,Medium,negative,enrichment activities,ear problem
+8/4/2021 14:55:35,Male,2,CSE,Online,No,2,Father/Mother,Regular,Regular,Physical Activity,Medium,Medium,positive,medical counselling,psychologycal 
+8/4/2021 15:06:05,Female,2,CSE,Online,No,3,Father/Mother,Regular,Regular,Study,High,Medium,education system is collapsing,get back to acdemia,psychologycal 
+8/4/2021 15:13:18,Male,2,CSE,Physical,No,3,Father/Mother,Irregular,Regular,"Work, Study",Medium,Medium,negative,get back to acdemia,nothing
+8/4/2021 15:27:09,Female,3,BBA,Physical,No,3,Father/Mother,Irregular,Irregular,Study,High,Medium,negative,enrichment activities,headache
+8/4/2021 15:30:50,Female,4,CSE,Physical,No,3,Friends,Regular,Irregular,Physical Activity,High,Medium,education system is collapsing,enrichment activities,weight gain
+8/4/2021 15:31:39,Female,3,CSE,Online,No,3,Father/Mother,Regular,Regular,Family,Medium,Medium,education system is collapsing,medical counselling,nothing
+8/4/2021 15:37:07,Male,3,CSE,Online,No,3,Father/Mother,Irregular,Irregular,"Family, Work, Physical Activity",High,Medium,negative,medical counselling,psychologycal 
+8/4/2021 15:52:53,Male,4,CSE,Online,No,3,Father/Mother,Regular,Regular,Physical Activity,Medium,Medium,average,enrichment activities,nothing
+8/4/2021 16:02:00,Male,4,CSE,Physical,Yes,2,Sibling,Irregular,Regular,"Social Activity, Work, Study",Medium,Medium,lack of teacher and student interaction,enrichment activities,psychologycal 
+8/4/2021 17:06:38,Male,4,CSE,Physical,Yes,3,Father/Mother,Regular,Regular,"Social Activity, Study, Physical Activity",Medium,Medium,education system is collapsing,travelling,psychologycal 
+8/4/2021 19:43:20,Male,4,CSE,Online,No,1,No one,Irregular,Regular,"Family, Work, Study, Physical Activity",Medium,Medium,negative,enrichment activities,nothing
+8/4/2021 19:59:28,Male,3,CSE,Physical,No,3,Father/Mother,Irregular,Irregular,"Social Activity, Work, Study, Physical Activity",Low,Low,lack of teacher and student interaction,travelling,backpain
+8/4/2021 19:59:28,Male,3,CSE,Physical,No,3,Father/Mother,Irregular,Irregular,"Social Activity, Work, Study, Physical Activity",Low,Low,lack of teacher and student interaction,travelling,headache
+8/4/2021 19:59:28,Male,3,CSE,Physical,No,3,Father/Mother,Irregular,Irregular,"Social Activity, Work, Study, Physical Activity",Low,Low,lack of teacher and student interaction,travelling,eye problem
+8/4/2021 20:55:10,Male,4,SWE,Physical,Yes,3,Father/Mother,More Often,Regular,Physical Activity,Medium,Low,lack of teacher and student interaction,get back to acdemia,headache
+8/4/2021 21:08:32,Male,4,CSE,Online,No,3,Father/Mother,Irregular,Irregular,Physical Activity,Medium,Medium,positive,enrichment activities,headache
+8/4/2021 21:12:07,Female,3,CSE,Online,Yes,2,Sibling,Irregular,Regular,Study,Medium,Medium,negative,medical counselling,psychologycal 
+8/4/2021 22:23:19,Male,2,CSE,Physical,No,3,No one,More Often,Irregular,"Social Activity, Work, Study, Physical Activity",Medium,High,education system is collapsing,enrichment activities,headache
+8/4/2021 22:39:15,Male,2,CSE,Online,Yes,2,Father/Mother,Irregular,Regular,"Family, Social Activity, Work, Study, Physical Activity",Medium,Medium,positive,medical counselling,eye problem
+8/4/2021 23:39:00,Male,2,CSE,Physical,Yes,3,Father/Mother,Irregular,Irregular,Study,High,High,education system is collapsing,travelling,psychologycal 
+8/6/2021 9:34:24,Female,4,CSE,Physical,No,2,Father/Mother,Irregular,Regular,Study,Medium,Medium,education system is collapsing,enrichment activities,headache
+8/6/2021 11:05:17,Male,3,CSE,Physical,No,2,Sibling,Irregular,Irregular,"Study, Physical Activity",High,Medium,need improvement,travelling,eye problem
+8/6/2021 22:21:27,Male,3,CSE,On-line,No,2,Father/Mother,Regular,Regular,"Family, Social Activity, Work, Physical Activity",Medium,Medium,negative,medical counselling,backpain
+8/7/2021 0:02:32,Male,3,CSE,Physical,No,3,Father/Mother,Irregular,Regular,"Social Activity, Work, Study",Medium,Medium,positive,travelling,backpain
+8/7/2021 15:00:27,Male,2,CSE,Physical,No,4,Friends,Irregular,Regular,Social Activity,High,Medium,lack of teacher and student interaction,travelling,eye problem
+8/8/2021 13:12:16,Male,4,SWE,Physical,Yes,2,Father/Mother,Irregular,Regular,"Study, Physical Activity",Medium,Low,education system is collapsing,get back to acdemia,weight gain
+8/9/2021 22:43:02,Male,3,CSE,Physical,Yes,2,Friends,Irregular,Irregular,"Social Activity, Study, Physical Activity",Medium,Medium,education system is collapsing,get back to acdemia,psychologycal 
+8/9/2021 22:53:15,Male,3,EEE,Physical,No,3,Sibling,Irregular,Irregular,Social Activity,High,Medium,positive,travelling,headache
+8/9/2021 23:04:00,Male,3,EEE,Physical,No,1,Father/Mother,More Often,Regular,"Work, Study, Physical Activity",Medium,Medium,education system is collapsing,get back to acdemia,eye problem
+8/9/2021 23:20:24,Male,3,EEE,Online,Yes,2,Father/Mother,Regular,Regular,Physical Activity,Medium,Low,negative,get back to acdemia,backpain
+8/9/2021 23:22:43,Male,3,TE,Online,No,3,Father/Mother,Regular,Regular,Study,Medium,Low,positive,medical counselling,nothing
+8/9/2021 23:27:22,Male,3,CSE,Physical,Yes,2,No one,Irregular,Irregular,"Family, Social Activity, Physical Activity",Medium,Medium,education system is collapsing,medical counselling,eye problem
+8/9/2021 23:31:47,Male,3,EEE,Physical,No,3,Father/Mother,Regular,Irregular,Study,High,Medium,positive,get back to acdemia,eye problem
+8/9/2021 23:52:00,Male,3,EEE,Physical,No,2,Friends,Irregular,Regular,Study,Medium,High,education system is collapsing,get back to acdemia,psychologycal 
+8/10/2021 8:45:19,Male,3,EEE,Physical,Yes,5,Father/Mother,Irregular,Regular,Physical Activity,Medium,Medium,education system is collapsing,medical counselling,eye problem
+8/14/2021 14:38:09,Male,1,CSE,Online,No,1,Father/Mother,More Often,Regular,Physical Activity,Medium,Medium,negative,medical counselling,nothing
+8/14/2021 14:41:39,Male,3,CSE,Physical,Yes,3,No one,Irregular,Irregular,"Study, Physical Activity",Medium,Medium,negative,get back to acdemia,nothing
+8/14/2021 14:42:41,Male,3,CSE,Physical,Yes,4,Father/Mother,Irregular,Regular,Social Activity,Medium,Medium,negative,medical counselling,nothing
+8/14/2021 14:43:44,Female,3,CSE,Online,No,3,Father/Mother,Irregular,Regular,"Social Activity, Work, Physical Activity",Medium,Medium,average,travelling,nothing
+8/14/2021 14:43:45,Female,3,CSE,Physical,Yes,3,No one,Regular,Irregular,"Family, Work, Study, Physical Activity",Low,Medium,average,get back to acdemia,psychologycal 
+8/14/2021 14:46:00,Male,3,CSE,Online,No,3,No one,Irregular,Regular,"Family, Social Activity, Work, Study, Physical Activity",Medium,Low,positive,travelling,nothing
+8/14/2021 14:46:16,Male,3,CSE,Online,No,3,Father/Mother,Regular,Regular,"Family, Social Activity, Work, Study",Medium,Medium,need improvement,get back to acdemia,psychologycal 
+8/14/2021 15:07:30,Male,3,CSE,Physical,No,3,Father/Mother,Regular,Irregular,Physical Activity,Medium,High,education system is collapsing,enrichment activities,weight gain
+8/14/2021 15:47:17,Male,3,CSE,Online,No,3,Father/Mother,Regular,Regular,Family,High,Medium,positive,travelling,nothing
+8/14/2021 16:09:18,Female,3,CSE,Physical,Yes,3,No one,More Often,Irregular,Family,Medium,Medium,negative,medical counselling,eye problem
+8/14/2021 16:19:26,Female,3,CSE,Online,Yes,3,No one,More Often,Irregular,"Social Activity, Work, Physical Activity",Medium,Medium,average,enrichment activities,headache
+8/14/2021 16:19:54,Male,3,CSE,Physical,No,2,No one,Regular,Irregular,Work,Low,Medium,positive,enrichment activities,nothing
+8/14/2021 16:21:08,Male,3,CSE,Physical,Yes,1,Father/Mother,Irregular,Irregular,Physical Activity,Medium,Low,positive,medical counselling,nothing
+8/14/2021 16:29:21,Female,2,CSE,Physical,Yes,1,Father/Mother,Irregular,Irregular,"Family, Social Activity, Work, Study, Physical Activity",Medium,Medium,education system is collapsing,enrichment activities,eye problem
+8/14/2021 16:31:19,Female,3,CSE,Physical,Yes,4,Father/Mother,Regular,Regular,Study,Medium,Medium,positive,enrichment activities,eye problem
+8/14/2021 16:32:32,Male,2,CSE,Physical,No,3,No one,Regular,Regular,"Social Activity, Study, Physical Activity",High,High,negative,get back to acdemia,nothing
+8/14/2021 16:35:17,Male,2,CSE,Physical,No,3,Father/Mother,Irregular,Irregular,Study,Medium,Medium,negative,get back to acdemia,eye problem
+8/14/2021 16:35:36,Female,2,CSE,Online,No,3,No one,Regular,Regular,Work,Medium,Medium,negative,medical counselling,psychologycal 
+8/14/2021 16:36:08,Female,2,CSE,Physical,Yes,4,Father/Mother,Irregular,Irregular,"Study, Physical Activity",High,Medium,negative,enrichment activities,headache
+8/14/2021 16:36:30,Male,2,CSE,Online,No,1,Father/Mother,Irregular,Irregular,"Family, Social Activity",Medium,Medium,average,medical counselling,headache
+8/14/2021 16:37:53,Female,3,CSE,Online,No,3,Father/Mother,Irregular,Regular,"Family, Work, Study",Medium,Medium,negative,medical counselling,backpain
+8/14/2021 16:37:53,Female,3,CSE,Online,No,3,Father/Mother,Irregular,Regular,"Family, Work, Study",Medium,Medium,negative,medical counselling,eye problem
+8/14/2021 16:37:53,Female,3,CSE,Online,No,3,Father/Mother,Irregular,Regular,"Family, Work, Study",Medium,Medium,negative,medical counselling,psychologycal 
+8/14/2021 16:39:52,Male,2,CSE,Online,No,2,Father/Mother,Irregular,Regular,Family,High,Medium,negative,enrichment activities,psychologycal 
+8/14/2021 16:41:45,Male,3,CSE,Physical,No,3,Father/Mother,Regular,Regular,Social Activity,Medium,Medium,negative,medical counselling,nothing
+8/14/2021 16:42:36,Male,2,CSE,Online,Yes,4,Father/Mother,Irregular,Regular,"Family, Social Activity, Work, Study, Physical Activity",Medium,Medium,average,get back to acdemia,psychologycal 
+8/14/2021 16:42:36,Male,2,CSE,Online,Yes,4,Father/Mother,Irregular,Regular,"Family, Social Activity, Work, Study, Physical Activity",Medium,Medium,average,get back to acdemia,eye problem
+8/14/2021 16:42:36,Male,2,CSE,Online,Yes,4,Father/Mother,Irregular,Regular,"Family, Social Activity, Work, Study, Physical Activity",Medium,Medium,average,get back to acdemia,backpain
+8/14/2021 16:44:45,Female,2,CSE,Physical,No,3,Father/Mother,Irregular,Regular,Physical Activity,High,Medium,negative,get back to acdemia,psychologycal 
+8/14/2021 16:48:26,Male,2,CSE,Online,No,3,Father/Mother,Irregular,Regular,"Study, Physical Activity",Medium,Medium,negative,enrichment activities,psychologycal 
+8/14/2021 16:49:19,Female,2,CSE,Physical,No,4,Father/Mother,Irregular,Regular,"Family, Social Activity",High,Medium,positive,enrichment activities,nothing
+8/14/2021 16:49:21,Male,2,CSE,Physical,No,3,Father/Mother,Regular,Regular,"Study, Physical Activity",Medium,Low,creating psychological problems,medical counselling,eye problem
+8/14/2021 16:59:32,Male,2,CSE,Online,Yes,4,Father/Mother,Irregular,Irregular,Family,Medium,Medium,average,medical counselling,psychologycal 
+8/14/2021 17:00:37,Male,2,CSE,Physical,No,4,No one,Regular,Regular,"Social Activity, Physical Activity",High,Medium,negative,get back to acdemia,weight gain
+8/14/2021 17:01:09,Male,3,CSE,Online,Yes,3,Father/Mother,More Often,Irregular,Social Activity,Medium,Medium,average,medical counselling,psychologycal 
+8/14/2021 17:01:18,Male,2,CSE,Online,No,3,Father/Mother,Regular,Regular,"Social Activity, Work, Study",Medium,Medium,need improvement,enrichment activities,nothing
+8/14/2021 17:02:44,Male,3,CSE,Physical,Yes,3,Father/Mother,Irregular,Irregular,Physical Activity,Medium,Medium,average,travelling,nothing
+8/14/2021 17:18:34,Female,2,CSE,Physical,Yes,3,Sibling,Regular,Irregular,"Work, Study, Physical Activity",High,Medium,lack of teacher and student interaction,enrichment activities,backpain
+8/14/2021 17:18:34,Female,2,CSE,Physical,Yes,3,Sibling,Regular,Irregular,"Work, Study, Physical Activity",High,Medium,lack of teacher and student interaction,enrichment activities,psychologycal 
+8/4/2021 19:59:28,Male,3,CSE,Physical,No,3,Father/Mother,Irregular,Irregular,"Social Activity, Work, Study, Physical Activity",Low,Medium,lack of teacher and student interaction,travelling,backpain
+8/4/2021 19:59:28,Male,3,CSE,Physical,No,3,Father/Mother,Irregular,Irregular,"Social Activity, Work, Study, Physical Activity",Low,Medium,lack of teacher and student interaction,travelling,headache
+8/4/2021 19:59:28,Male,3,CSE,Physical,No,3,Father/Mother,Irregular,Irregular,"Social Activity, Work, Study, Physical Activity",Low,Medium,lack of teacher and student interaction,travelling,eye problem
+8/14/2021 17:19:35,Male,2,CSE,Physical,Yes,3,Father/Mother,Irregular,Regular,"Family, Social Activity, Study",High,Low,need improvement,enrichment activities,headache
+8/14/2021 17:20:25,Female,2,CSE,Physical,No,3,Sibling,Irregular,Irregular,Study,Medium,Low,education system is collapsing,enrichment activities,nothing
+8/14/2021 17:24:12,Male,2,CSE,Physical,No,3,Sibling,Regular,Regular,"Work, Study, Physical Activity",High,Low,negative,medical counselling,headache
+8/14/2021 17:29:44,Female,2,CSE,Online,No,3,No one,Irregular,Regular,Physical Activity,Medium,Medium,positive,enrichment activities,headache
+8/14/2021 17:29:44,Female,2,CSE,Online,No,3,No one,Irregular,Regular,Physical Activity,Medium,Medium,positive,enrichment activities,eye problem
+8/14/2021 17:29:44,Female,2,CSE,Online,No,3,No one,Irregular,Regular,Physical Activity,Medium,Low,positive,enrichment activities,psychologycal 
+8/14/2021 17:30:35,Female,2,CSE,Online,Yes,3,No one,Irregular,Irregular,"Family, Work, Study",Medium,High,average,enrichment activities,eye problem
+8/14/2021 17:36:06,Male,2,CSE,Physical,No,3,No one,Irregular,Irregular,Physical Activity,Medium,High,education system is collapsing,enrichment activities,weight gain
+8/14/2021 17:36:54,Male,2,CSE,Physical,No,3,Father/Mother,Irregular,Regular,Social Activity,Medium,Medium,average,medical counselling,psychologycal 
+8/14/2021 17:43:28,Male,2,CSE,Physical,Yes,1,Friends,More Often,Irregular,"Work, Study, Physical Activity",Medium,High,education system is collapsing,enrichment activities,psychologycal 
+8/14/2021 17:44:47,Male,3,CSE,Physical,No,2,Father/Mother,Irregular,Regular,Physical Activity,Medium,Low,negative,medical counselling,backpain
+8/14/2021 17:48:28,Male,2,CSE,Online,Yes,3,No one,Irregular,Regular,"Social Activity, Work",Medium,Medium,need improvement,enrichment activities,psychologycal 
+8/14/2021 17:49:01,Male,3,CSE,Online,Yes,3,Father/Mother,Regular,Irregular,Social Activity,Medium,Medium,positive,medical counselling,psychologycal 
+8/14/2021 17:49:39,Male,2,CSE,Physical,No,4,Father/Mother,Regular,Irregular,"Family, Social Activity, Study",Medium,Medium,average,get back to acdemia,nothing
+8/14/2021 17:50:24,Male,2,CSE,Physical,Yes,1,Friends,Regular,Regular,Study,High,High,education system is collapsing,travelling,backpain
+8/14/2021 17:50:24,Male,2,CSE,Physical,Yes,1,Friends,Regular,Regular,Study,High,Low,education system is collapsing,travelling,eye problem
+8/14/2021 17:50:24,Male,2,CSE,Physical,Yes,1,Friends,Regular,Regular,Study,High,Medium,education system is collapsing,travelling,headache
+8/14/2021 17:50:24,Male,2,CSE,Physical,Yes,1,Friends,Regular,Regular,Study,High,Medium,education system is collapsing,travelling,psychologycal 
+8/14/2021 17:53:30,Male,2,CSE,Physical,No,2,Father/Mother,Irregular,Irregular,Physical Activity,Medium,Medium,creating psychological problems,get back to acdemia,backpain
+8/14/2021 17:53:30,Male,2,CSE,Physical,No,2,Father/Mother,Irregular,Irregular,Physical Activity,Medium,Medium,creating psychological problems,get back to acdemia,eye problem
+8/14/2021 17:53:30,Male,2,CSE,Physical,No,2,Father/Mother,Irregular,Irregular,Physical Activity,Medium,Medium,creating psychological problems,get back to acdemia,psychologycal 
+8/14/2021 17:53:30,Male,2,CSE,Physical,No,2,Father/Mother,Irregular,Irregular,Physical Activity,Medium,Low,creating psychological problems,get back to acdemia,headache
+8/14/2021 17:58:02,Male,2,CSE,Online,No,3,Father/Mother,Irregular,Irregular,"Family, Social Activity, Study",Medium,Medium,need improvement,medical counselling,psychologycal 
+8/14/2021 18:00:57,Male,2,CSE,Online,Yes,2,Friends,Irregular,Irregular,"Family, Social Activity",Medium,Medium,positive,enrichment activities,headache
+8/14/2021 18:02:30,Male,3,CSE,Physical,No,2,No one,Irregular,Regular,Family,Medium,Medium,education system is collapsing,enrichment activities,headache
+8/14/2021 18:02:35,Female,3,CSE,Online,Yes,5,Sibling,Irregular,Irregular,Work,Medium,Low,average,travelling,nothing
+8/14/2021 18:07:04,Male,2,CSE,Physical,No,5,Father/Mother,Irregular,Irregular,"Social Activity, Study, Physical Activity",High,Low,education system is collapsing,enrichment activities,psychologycal 
+8/14/2021 18:10:47,Male,2,CSE,Physical,No,3,Friends,Regular,Irregular,Study,Medium,Medium,average,travelling,psychologycal 
+8/14/2021 18:12:39,Female,3,CSE,Physical,No,2,Father/Mother,Irregular,Regular,Family,Medium,Medium,positive,travelling,nothing
+8/14/2021 18:13:14,Female,2,CSE,Online,No,3,Father/Mother,Irregular,Regular,Study,Medium,Medium,education system is collapsing,enrichment activities,nothing
+8/14/2021 18:15:09,Female,2,CSE,Online,No,3,Father/Mother,Regular,Regular,"Social Activity, Study, Physical Activity",Medium,Medium,positive,get back to acdemia,psychologycal 
+8/14/2021 18:29:35,Male,2,CSE,Physical,Yes,3,Father/Mother,Regular,Regular,"Family, Study",High,High,average,enrichment activities,nothing
+8/14/2021 18:36:38,Male,2,CSE,Physical,Yes,3,Father/Mother,More Often,Regular,"Work, Study, Physical Activity",High,Medium,positive,enrichment activities,eye problem
+8/14/2021 18:37:16,Male,3,CSE,Online,No,1,Father/Mother,Regular,Irregular,"Family, Social Activity, Work, Study, Physical Activity",Medium,Medium,average,travelling,psychologycal 
+8/14/2021 18:40:59,Male,2,CSE,Online,No,2,Father/Mother,Irregular,Irregular,"Family, Social Activity, Work, Study, Physical Activity",Medium,Medium,average,travelling,nothing
+8/14/2021 18:45:24,Female,2,CSE,Physical,Yes,2,Father/Mother,Irregular,Regular,Study,Medium,Medium,education system is collapsing,enrichment activities,psychologycal 
+8/14/2021 19:00:23,Male,3,CSE,Online,No,4,Father/Mother,Irregular,Regular,"Family, Work, Study",Medium,Medium,average,medical counselling,nothing
+8/14/2021 19:08:34,Male,2,CSE,Physical,No,3,Sibling,More Often,Irregular,"Family, Physical Activity",Medium,Medium,education system is collapsing,travelling,ear problem
+8/14/2021 19:52:01,Male,2,CSE,Physical,Yes,3,Father/Mother,Regular,Regular,"Family, Social Activity, Study",Medium,Low,average,get back to acdemia,nothing
+8/14/2021 19:52:05,Female,2,CSE,Online,No,3,No one,Irregular,Regular,"Family, Social Activity",Medium,Medium,education system is collapsing,get back to acdemia,headache
+8/14/2021 19:55:38,Male,2,CSE,Online,Yes,4,Father/Mother,Irregular,Regular,Study,Medium,Medium,negative,travelling,nothing
+8/14/2021 20:35:35,Male,2,CSE,Online,Yes,3,Father/Mother,Regular,Irregular,"Study, Physical Activity",Medium,High,negative,get back to acdemia,eye problem
+8/14/2021 20:53:08,Female,2,CSE,Physical,Yes,3,Sibling,Irregular,Regular,Work,High,Medium,negative,travelling,nothing
+8/14/2021 21:44:46,Male,3,CSE,Physical,No,3,No one,Irregular,Regular,"Family, Social Activity, Study",Medium,Medium,negative,travelling,backpain
+8/14/2021 21:44:46,Male,3,CSE,Physical,No,3,No one,Irregular,Regular,"Family, Social Activity, Study",Medium,Low,negative,travelling,eye problem
+8/14/2021 21:44:46,Male,3,CSE,Physical,No,3,No one,Irregular,Regular,"Family, Social Activity, Study",Medium,Low,negative,travelling,nothing
+8/14/2021 21:44:46,Male,3,CSE,Physical,No,3,No one,Irregular,Regular,"Family, Social Activity, Study",Medium,Low,negative,travelling,headache
+8/14/2021 22:24:02,Male,3,CSE,Physical,No,2,Friends,Irregular,Irregular,"Social Activity, Study, Physical Activity",Medium,Low,negative,travelling,eye problem
+8/14/2021 22:45:45,Male,3,CSE,Online,No,2,Father/Mother,Regular,Regular,Study,High,Medium,negative,get back to acdemia,psychologycal 
+8/14/2021 22:59:25,Male,3,CSE,Physical,Yes,3,Father/Mother,Irregular,Regular,Work,Medium,Medium,positive,enrichment activities,psychologycal 
+8/14/2021 23:53:27,Male,3,CSE,Online,No,3,No one,More Often,Never,"Family, Social Activity, Work, Study, Physical Activity",Low,Medium,negative,enrichment activities,weight gain
+8/14/2021 23:56:49,Male,3,CSE,Physical,No,2,Sibling,Irregular,Irregular,Study,Medium,Medium,average,travelling,nothing
+8/15/2021 1:29:23,Male,3,CSE,Physical,Yes,3,No one,Irregular,Irregular,"Family, Study",Low,Medium,average,get back to acdemia,nothing
+8/4/2021 12:40:53,Male,3,CSE,Physical,No,2,Father/Mother,Irregular,Regular,Family,Medium,Medium,education system is collapsing,get back to acdemia,headache
